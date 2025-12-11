@@ -2,7 +2,7 @@
 
 # Professional Self-Assessment
 
-Course Outcomes: 
+## Course Outcomes: 
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
