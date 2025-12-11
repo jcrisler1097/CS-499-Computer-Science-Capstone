@@ -26,10 +26,10 @@ I have enhanced two artifacts that showcase my abilities across these categories
 # Enhancement One: Software Design and Engineering
 ### Artifact One - Original
 
-[Artifact One - Original](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/blob/main/Artifact1-original.zip)
+[Artifact One - Original](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/tree/main/Artifact1%20-%20Original)
 
 ### Artifact One - Updated
-[Artifact One - Updated](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/blob/main/Artifact1-updated.zip)
+[Artifact One - Updated](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/tree/main/Artifact1%20-%20Updated)
 
   The first artifact I have chosen for my ePortfolio for the software engineering and design category  as well as the algorithms and data structures category is my coursework from course CS-320 Software Test, Automation, and Quality Assurance. This Java program is an application for a medical office that is used to collect contact information for clients, task information and store client appointments. This program stores the information in an array, implemented methods to search for clients, tasks, or appointments within the array, and then uses JUnit tests for each method to ensure that the information was entered correctly. 
 	To improve this artifact, I have implemented a method to check for duplicate entries within the array and throw an exception if a duplicate entry is found before adding the duplicate entry to the array. This helps to improve this artifact, because it will improve and create more accurate search results for the user in addition to helping to eliminate redundancies within the array list. I have included this artifact in my ePortfolio, because it highlights my skills to check for inaccuracies with data that is collected for a program and my abilities in software development to throw exceptions when an error is found within a program to prevent duplicate entries from being added into a program’s data list, which can create inaccuracies in data and make searching for data more difficult for users. 
@@ -38,10 +38,10 @@ Reflecting on my process of enhancing and modifying the artifact, I learned abou
 
 # Enhncement Two: Algorithms and Data Structures
 ### Artifact One - Original
-[Artifact One - Original](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/blob/main/Artifact1-original.zip)
+[Artifact One - Original](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/tree/main/Artifact1%20-%20Original)
 
 ### Artifact One - Updated
-[Artifact One - Updated](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/blob/main/Artifact1-updated.zip)
+[Artifact One - Updated](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/tree/main/Artifact1%20-%20Updated)
 
   The first artifact that I have chosen for my ePortfolio for the software engineering and design category as well as the algorithms and data structure category is my coursework from course CS-320 Software Test, Automation, and Quality Assurance. This artifact is a Java program for an application that can be used by a medical office to collect contact information for clients, task information, and store client appointments. This Java program stores the information in an array list, implements the methods to search for clients, tasks, or appointments within the array, and then uses JUnit tests for each method to ensure that the information was entered correctly and behaves as intended.  
   In the original artifact, the program only allowed users to search for data within the array for a client, task, or appointment by the unique ID or index. To improve this artifact for the algorithms and data structure category, I have implemented methods to improve the search methods within this program by expanding the searching capabilities for users. I have added methods to search the array by first name, last name, phone number, or address for the contact list, by name or description in the task list, and by date or description in the appointments list. This helps to improve the artifact by helping to expand the searching method which allows users to have an improved experience while searching for data within the array. The specific component of the artifact that showcases my abilities in algorithms and data structure is expanding the searching algorithm to allow users to search by more methods than by the ID or index. I chose this artifact for my ePortfolio, because it helps to highlight my abilities to expand the functionality of a program with user’s needs in mind and improve the searching algorithm of a program.  
@@ -49,7 +49,7 @@ Reflecting on my process of enhancing and modifying the artifact, I learned abou
 
 # Enhancement Three: Databases
 ### Artifact Two - Original
-[Artifact Two - Original](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/blob/main/Artifact2-original.zip)
+[Artifact Two - Original](https://github.com/jcrisler1097/CS-499-Computer-Science-Capstone/tree/main/Artifact2%20-%20Original)
 
 ### Artifact Two - Updated
 [Artifact Two - Updated](url)
