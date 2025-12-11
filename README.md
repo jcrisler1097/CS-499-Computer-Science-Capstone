@@ -2,12 +2,15 @@
 
 # Professional Self-Assessment
 Hello, 
+
 My name is Jordan Crisler and welcome to my ePortfolio for my CS-499 Computer Science Capstone course from Southern New Hampshire University. This ePortfolio is a representation of the knowledge and skills that I have developed throughout the computer science program and represents the growth I have achieved. 
 The coursework throughout this program and developing the ePortfolio has helped to showcase my strengths, shape my professional goals, and prepared me for the computer science field by giving me the foundations and skills needed, expanding my technical knowledge to solve real-world problems using algorithmic principles, computer science practices, and well-founded and innovative techniques. I have gained experience with collaborating in a team environment by participating in class discussions where we would discuss course topics and provide feedback and suggestions for projects and gained experience communicating with stakeholders through written design documents and presentations. In addition, I have gained experience working with data structures and algorithms, software engineering and databases, and security throughout the program. I have worked with data structures and algorithms, such as binary search trees or hash tables, in course CS-300 DSA: Analysis and Design. I have also gained experiencing working with software engineering and databases through courses such as DAD-220 Intro to Structure Database Environments and CS-340 Client/Server Development, which creates a database where a user can retrieve information from a MongoDB database using CRUD methods. In addition, I have learned about secure coding and security through courses such as CS-305 Software Security and CS-405 Secure Coding, in addition to implementing these principles throughout each course.
+
 This ePortfolio help to demonstrate the full range of skills I have learned throughout the computer science program and help to showcase my abilities I have acquired. This ePortfolio showcases my abilities within three categories:
 -	Software Design and Engineering
 -	Algorithms and Data Structure
 -	Databases
+
 I have enhanced two artifacts that showcase my abilities across these categories. For the first artifact, this artifact showcases my abilities within the software design and engineering as well as the algorithms and data structure categories. The second artifact showcases my abilities within the databases category. These artifacts fit together and inform my ePortfolio as a whole by showing my skills to identify insufficiencies, enhance a program with the user’s needs in mind, and gives an insight into my overall process. In addition, these artifacts also demonstrate not only my technical skills, but also my growth throughout the program, problem-solving skills, commitment to continuous learning, and adaptability. 
 
 # Course Outcomes: 
